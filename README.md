@@ -17,3 +17,6 @@ about the protection of internet ports, SQL injections, the use of passwords and
 This was my first talk and, although I know that there are many topics to cover, the company did not want me to go into
 too much depth and did not allow me time to do so, in any case, this brief presentation may be useful as an introduction
 to cybersecurity in the company.
+
+In the PDF file you can find the talk with the slides and explanations used based on a course carried out by INCIBE on 
+cybersecurity for microenterprises and the self-employed and the LABORA course on IT security management in the company.
